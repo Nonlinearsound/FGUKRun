@@ -1,0 +1,1059 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+  <sim>
+    <current-view>
+      <field-of-view-compensation type="bool">true</field-of-view-compensation>
+      <dynamic-view type="bool">true</dynamic-view>
+    </current-view>
+    <tower>
+      <auto-position type="bool">true</auto-position>
+    </tower>
+    <startup>
+      <save-on-exit type="bool">true</save-on-exit>
+      <path-cache>
+        <fg-root type="string">C:/Program Files/FlightGear 2018.2.2/data</fg-root>
+        <fg-aircraft type="string">D:/FlightGear/Aircraft</fg-aircraft>
+        <aircraft>
+          <file type="string">707-PAX-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/707</path>
+        </aircraft>
+        <aircraft n="1">
+          <file type="string">707-TT-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/707</path>
+        </aircraft>
+        <aircraft n="2">
+          <file type="string">707-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/707</path>
+        </aircraft>
+        <aircraft n="3">
+          <file type="string">EC-137D-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/707</path>
+        </aircraft>
+        <aircraft n="4">
+          <file type="string">747-400-fo-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/747-400</path>
+        </aircraft>
+        <aircraft n="5">
+          <file type="string">747-400-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/747-400</path>
+        </aircraft>
+        <aircraft n="6">
+          <file type="string">757-200-PW2040-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/757-200</path>
+        </aircraft>
+        <aircraft n="7">
+          <file type="string">757-200-RB211-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/757-200</path>
+        </aircraft>
+        <aircraft n="8">
+          <file type="string">757-200-fo-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/757-200</path>
+        </aircraft>
+        <aircraft n="9">
+          <file type="string">777-200ER-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/777-200</path>
+        </aircraft>
+        <aircraft n="10">
+          <file type="string">A-10-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/A-10</path>
+        </aircraft>
+        <aircraft n="11">
+          <file type="string">A-4E-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/A-4E</path>
+        </aircraft>
+        <aircraft n="12">
+          <file type="string">A-4K-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/A-4K</path>
+        </aircraft>
+        <aircraft n="13">
+          <file type="string">A-4K-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/A-4K_main_hangar</path>
+        </aircraft>
+        <aircraft n="14">
+          <file type="string">A-6E-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/A-6E</path>
+        </aircraft>
+        <aircraft n="15">
+          <file type="string">A-7E-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/A-7E</path>
+        </aircraft>
+        <aircraft n="16">
+          <file type="string">AH-1W-cp-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/AH-1</path>
+        </aircraft>
+        <aircraft n="17">
+          <file type="string">AH-1W-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/AH-1</path>
+        </aircraft>
+        <aircraft n="18">
+          <file type="string">AH-1-cp-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/AH-1_HueyCobra</path>
+        </aircraft>
+        <aircraft n="19">
+          <file type="string">AH-1W-cp-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/AH-1_HueyCobra</path>
+        </aircraft>
+        <aircraft n="20">
+          <file type="string">AH-1_HueyCobra-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/AH-1_HueyCobra</path>
+        </aircraft>
+        <aircraft n="21">
+          <file type="string">apache-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/AH-64_Apache</path>
+        </aircraft>
+        <aircraft n="22">
+          <file type="string">apache-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/AH-64_Apache_ALTE_Verion</path>
+        </aircraft>
+        <aircraft n="23">
+          <file type="string">ALCA-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/ALCA</path>
+        </aircraft>
+        <aircraft n="24">
+          <file type="string">AN-225-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/AN-225</path>
+        </aircraft>
+        <aircraft n="25">
+          <file type="string">as330-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/AS330</path>
+        </aircraft>
+        <aircraft n="26">
+          <file type="string">AS350-passenger-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/AS350</path>
+        </aircraft>
+        <aircraft n="27">
+          <file type="string">AS350-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/AS350</path>
+        </aircraft>
+        <aircraft n="28">
+          <file type="string">AS365-passenger-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/AS365</path>
+        </aircraft>
+        <aircraft n="29">
+          <file type="string">AS365-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/AS365</path>
+        </aircraft>
+        <aircraft n="30">
+          <file type="string">AS532-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/AS532</path>
+        </aircraft>
+        <aircraft n="31">
+          <file type="string">asg29-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/ASG29</path>
+        </aircraft>
+        <aircraft n="32">
+          <file type="string">ask21-passenger-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/ASK21</path>
+        </aircraft>
+        <aircraft n="33">
+          <file type="string">ask21-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/ASK21</path>
+        </aircraft>
+        <aircraft n="34">
+          <file type="string">ATR-72-500-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/ATR-72-500</path>
+        </aircraft>
+        <aircraft n="35">
+          <file type="string">commander-passenger-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Aero-Commander</path>
+        </aircraft>
+        <aircraft n="36">
+          <file type="string">commander-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Aero-Commander</path>
+        </aircraft>
+        <aircraft n="37">
+          <file type="string">aerostar700-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Aerostar-700</path>
+        </aircraft>
+        <aircraft n="38">
+          <file type="string">Alouette-III-YASIM-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Alouette-3</path>
+        </aircraft>
+        <aircraft n="39">
+          <file type="string">gazelle-passenger-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Alouette-3</path>
+        </aircraft>
+        <aircraft n="40">
+          <file type="string">alphajet-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Alphajet</path>
+        </aircraft>
+        <aircraft n="41">
+          <file type="string">an12-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Antonov-An-12</path>
+        </aircraft>
+        <aircraft n="42">
+          <file type="string">an22-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Antonov-An-22</path>
+        </aircraft>
+        <aircraft n="43">
+          <file type="string">arrow-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Avro-Arrow</path>
+        </aircraft>
+        <aircraft n="44">
+          <file type="string">Lancgunner-yasim-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Avro-Lancaster</path>
+        </aircraft>
+        <aircraft n="45">
+          <file type="string">lancaster-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Avro-Lancaster</path>
+        </aircraft>
+        <aircraft n="46">
+          <file type="string">AvroVulcanb2-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/AvroVulcanB2</path>
+        </aircraft>
+        <aircraft n="47">
+          <file type="string">Vulcan_CoPilot-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/AvroVulcanB2</path>
+        </aircraft>
+        <aircraft n="48">
+          <file type="string">b17-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/B-17</path>
+        </aircraft>
+        <aircraft n="49">
+          <file type="string">b25-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/B-25</path>
+        </aircraft>
+        <aircraft n="50">
+          <file type="string">b25j-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/B-25</path>
+        </aircraft>
+        <aircraft n="51">
+          <file type="string">hawkT2-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/BAE-Hawk</path>
+        </aircraft>
+        <aircraft n="52">
+          <file type="string">bae125-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/BAe-125</path>
+        </aircraft>
+        <aircraft n="53">
+          <file type="string">BMW-S-1000-RR-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/BMW-S-RR</path>
+        </aircraft>
+        <aircraft n="54">
+          <file type="string">Balao-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Balao</path>
+        </aircraft>
+        <aircraft n="55">
+          <file type="string">Berijew-200Altair-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Be-200Altair</path>
+        </aircraft>
+        <aircraft n="56">
+          <file type="string">206-passenger-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Bell-206</path>
+        </aircraft>
+        <aircraft n="57">
+          <file type="string">bell206-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Bell-206</path>
+        </aircraft>
+        <aircraft n="58">
+          <file type="string">412-crew-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Bell_412</path>
+        </aircraft>
+        <aircraft n="59">
+          <file type="string">Bell_412-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Bell_412</path>
+        </aircraft>
+        <aircraft n="60">
+          <file type="string">Bell_UH1-H-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Bell_UH-1H</path>
+        </aircraft>
+        <aircraft n="61">
+          <file type="string">UH1H-crew-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Bell_UH-1H</path>
+        </aircraft>
+        <aircraft n="62">
+          <file type="string">Bristol-Scout-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Bristol-Scout</path>
+        </aircraft>
+        <aircraft n="63">
+          <file type="string">C-17-yasim-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/C-17</path>
+        </aircraft>
+        <aircraft n="64">
+          <file type="string">C17-co-yasim-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/C-17</path>
+        </aircraft>
+        <aircraft n="65">
+          <file type="string">ac130-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/C130</path>
+        </aircraft>
+        <aircraft n="66">
+          <file type="string">c130-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/C130</path>
+        </aircraft>
+        <aircraft n="67">
+          <file type="string">c130k-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/C130</path>
+        </aircraft>
+        <aircraft n="68">
+          <file type="string">kc130-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/C130</path>
+        </aircraft>
+        <aircraft n="69">
+          <file type="string">CRJ1000-EuroLite-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/CRJ700-family</path>
+        </aircraft>
+        <aircraft n="70">
+          <file type="string">CRJ1000-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/CRJ700-family</path>
+        </aircraft>
+        <aircraft n="71">
+          <file type="string">CRJ1000ER-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/CRJ700-family</path>
+        </aircraft>
+        <aircraft n="72">
+          <file type="string">CRJ700-firstofficer-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/CRJ700-family</path>
+        </aircraft>
+        <aircraft n="73">
+          <file type="string">CRJ700-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/CRJ700-family</path>
+        </aircraft>
+        <aircraft n="74">
+          <file type="string">CRJ700ER-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/CRJ700-family</path>
+        </aircraft>
+        <aircraft n="75">
+          <file type="string">CRJ700LR-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/CRJ700-family</path>
+        </aircraft>
+        <aircraft n="76">
+          <file type="string">CRJ900-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/CRJ700-family</path>
+        </aircraft>
+        <aircraft n="77">
+          <file type="string">CRJ900ER-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/CRJ700-family</path>
+        </aircraft>
+        <aircraft n="78">
+          <file type="string">CRJ900LR-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/CRJ700-family</path>
+        </aircraft>
+        <aircraft n="79">
+          <file type="string">cap10b-copilot-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Cap10B</path>
+        </aircraft>
+        <aircraft n="80">
+          <file type="string">cap10b-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Cap10B</path>
+        </aircraft>
+        <aircraft n="81">
+          <file type="string">cap10C-copilot-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Cap10C</path>
+        </aircraft>
+        <aircraft n="82">
+          <file type="string">cap10c-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Cap10C</path>
+        </aircraft>
+        <aircraft n="83">
+          <file type="string">Cessna337-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Cessna337</path>
+        </aircraft>
+        <aircraft n="84">
+          <file type="string">CessnaT-50-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/CessnaT-50</path>
+        </aircraft>
+        <aircraft n="85">
+          <file type="string">Citation-II-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Citation</path>
+        </aircraft>
+        <aircraft n="86">
+          <file type="string">Sierra-Super-II-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Citation</path>
+        </aircraft>
+        <aircraft n="87">
+          <file type="string">DG_20Bus-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/DG_20Bus</path>
+        </aircraft>
+        <aircraft n="88">
+          <file type="string">do228-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/DO-228</path>
+        </aircraft>
+        <aircraft n="89">
+          <file type="string">do228NG-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/DO-228</path>
+        </aircraft>
+        <aircraft n="90">
+          <file type="string">dr400-dauphin-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/DR400-dauphin</path>
+        </aircraft>
+        <aircraft n="91">
+          <file type="string">da40-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Diamond-Da40</path>
+        </aircraft>
+        <aircraft n="92">
+          <file type="string">da42-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Diamond-Da42</path>
+        </aircraft>
+        <aircraft n="93">
+          <file type="string">da42-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Diamond-Da42-VI</path>
+        </aircraft>
+        <aircraft n="94">
+          <file type="string">dc-3-copilot-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Douglas-Dc3</path>
+        </aircraft>
+        <aircraft n="95">
+          <file type="string">dc-3-jsbsim-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Douglas-Dc3</path>
+        </aircraft>
+        <aircraft n="96">
+          <file type="string">dc-3-psg1-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Douglas-Dc3</path>
+        </aircraft>
+        <aircraft n="97">
+          <file type="string">dc-3-psg2-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Douglas-Dc3</path>
+        </aircraft>
+        <aircraft n="98">
+          <file type="string">dc-3-psg3-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Douglas-Dc3</path>
+        </aircraft>
+        <aircraft n="99">
+          <file type="string">dc-3-psg4-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Douglas-Dc3</path>
+        </aircraft>
+        <aircraft n="100">
+          <file type="string">dc-3-yasim-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Douglas-Dc3</path>
+        </aircraft>
+        <aircraft n="101">
+          <file type="string">dc-3A-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/Douglas-Dc3</path>
+        </aircraft>
+        <aircraft n="102">
+          <file type="string">EA300-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/EA300</path>
+        </aircraft>
+        <aircraft n="103">
+          <file type="string">lightningT5-instr-yasim-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/EE-Lightning</path>
+        </aircraft>
+        <aircraft n="104">
+          <file type="string">lightningT5-yasim-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/EE-Lightning</path>
+        </aircraft>
+        <aircraft n="105">
+          <file type="string">EF2000-X55-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/EF2000</path>
+        </aircraft>
+        <aircraft n="106">
+          <file type="string">EF2000-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/EF2000</path>
+        </aircraft>
+        <aircraft n="107">
+          <file type="string">f15c-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/F-15</path>
+        </aircraft>
+        <aircraft n="108">
+          <file type="string">f15d-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/F-15</path>
+        </aircraft>
+        <aircraft n="109">
+          <file type="string">f15dbs-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/F-15</path>
+        </aircraft>
+        <aircraft n="110">
+          <file type="string">f-16c-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/F-16C</path>
+        </aircraft>
+        <aircraft n="111">
+          <file type="string">F-18C_Hornet-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/F-18C</path>
+        </aircraft>
+        <aircraft n="112">
+          <file type="string">F-18D_Hornet-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/F-18D</path>
+        </aircraft>
+        <aircraft n="113">
+          <file type="string">F18-instr-yasim-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/F-18D</path>
+        </aircraft>
+        <aircraft n="114">
+          <file type="string">F-18E_Hornet-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/F-18E</path>
+        </aircraft>
+        <aircraft n="115">
+          <file type="string">F-20-dutchdemo-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/F-20</path>
+        </aircraft>
+        <aircraft n="116">
+          <file type="string">F-20-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/F-20</path>
+        </aircraft>
+        <aircraft n="117">
+          <file type="string">F-20A-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/F-20</path>
+        </aircraft>
+        <aircraft n="118">
+          <file type="string">F-20C-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/F-20</path>
+        </aircraft>
+        <aircraft n="119">
+          <file type="string">F-20bmw-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/F-20</path>
+        </aircraft>
+        <aircraft n="120">
+          <file type="string">F-22-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/F-22</path>
+        </aircraft>
+        <aircraft n="121">
+          <file type="string">F-35A-set.xml</file>
+          <path type="string">D:/FlightGear/Aircraft/F-35A</path>
+        </aircraft>
+      </path-cache>
+    </startup>
+    <panel>
+      <hide-nonzero-view type="bool">true</hide-nonzero-view>
+      <hide-nonzero-heading-offset type="bool">true</hide-nonzero-heading-offset>
+    </panel>
+    <sound>
+      <enabled type="bool">true</enabled>
+      <volume type="float">0.285714</volume>
+      <atc>
+        <enabled type="bool">true</enabled>
+        <external-view type="bool">true</external-view>
+        <volume type="float">1</volume>
+      </atc>
+      <avionics>
+        <enabled type="bool">true</enabled>
+        <external-view type="bool">true</external-view>
+        <volume type="float">0.844156</volume>
+      </avionics>
+      <chatter>
+        <enabled type="bool">false</enabled>
+        <volume type="float">0.4</volume>
+      </chatter>
+      <effects>
+        <enabled type="bool">true</enabled>
+        <volume type="float">0.74026</volume>
+      </effects>
+      <scene>
+        <enabled type="bool">true</enabled>
+        <volume type="float">0.6</volume>
+      </scene>
+      <device-name type="string"></device-name>
+      <voices>
+        <enabled type="bool">false</enabled>
+      </voices>
+      <aimodels>
+        <enabled type="bool">true</enabled>
+        <volume type="float">0.155844</volume>
+      </aimodels>
+    </sound>
+    <fgcom>
+      <enabled type="bool">false</enabled>
+      <server type="string">fgcom.flightgear.org</server>
+      <show-messages type="bool">false</show-messages>
+      <speaker-level type="double">0</speaker-level>
+      <silence-threshold type="double">-15</silence-threshold>
+      <register>
+        <enabled type="bool">false</enabled>
+        <username type="string">guest</username>
+        <password type="string">guest</password>
+      </register>
+    </fgcom>
+    <rendering>
+      <horizon-effect type="bool">true</horizon-effect>
+      <distance-attenuation type="bool">false</distance-attenuation>
+      <specular-highlight type="bool">false</specular-highlight>
+      <rembrandt>
+        <show-buffers type="bool">false</show-buffers>
+        <ambient-occlusion type="bool">false</ambient-occlusion>
+        <ambient-occlusion-strength type="float">1</ambient-occlusion-strength>
+        <bloom type="bool">true</bloom>
+        <bloom-strength type="float">1</bloom-strength>
+        <cinema>
+          <inner-circle type="float">0.64</inner-circle>
+          <outer-circle type="float">1.74</outer-circle>
+          <red-shift>
+            <x type="float">0.792</x>
+            <y type="float">0.416</y>
+            <z type="float">0.189</z>
+          </red-shift>
+          <green-shift>
+            <x type="float">0.752</x>
+            <y type="float">0.456</y>
+            <z type="float">0.168</z>
+          </green-shift>
+          <blue-shift>
+            <x type="float">0.272</x>
+            <y type="float">0.534</y>
+            <z type="float">0.131</z>
+          </blue-shift>
+          <distortion-factor>
+            <x type="float">-0.05</x>
+            <y type="float">0</y>
+            <z type="float">1</z>
+          </distortion-factor>
+          <color-fringe-factor type="float">1.04</color-fringe-factor>
+        </cinema>
+        <exposure type="float">1</exposure>
+        <debug-buffer>
+          <enabled type="bool">false</enabled>
+          <name></name>
+        </debug-buffer>
+        <debug-buffer n="1">
+          <enabled type="bool">true</enabled>
+          <name>spec-emis</name>
+        </debug-buffer>
+        <debug-buffer n="2">
+          <enabled type="bool">true</enabled>
+          <name>normal</name>
+        </debug-buffer>
+        <debug-buffer n="3">
+          <enabled type="bool">true</enabled>
+          <name>diffuse</name>
+        </debug-buffer>
+      </rembrandt>
+      <shaders>
+        <custom-settings type="bool">true</custom-settings>
+        <generic type="float">1</generic>
+        <landmass type="float">6</landmass>
+        <model type="float">3</model>
+        <contrails type="float">1</contrails>
+        <crop type="float">1</crop>
+        <skydome type="bool">true</skydome>
+        <transition type="float">6</transition>
+        <urban type="float">5</urban>
+        <water type="float">5</water>
+        <wind-effects type="float">2</wind-effects>
+        <vegetation-effects type="float">0</vegetation-effects>
+        <forest type="float">1</forest>
+        <lights type="float">1</lights>
+        <quality-level-internal type="float">5</quality-level-internal>
+      </shaders>
+      <mie type="float">0.005</mie>
+      <rayleigh type="float">0.000486764</rayleigh>
+      <dome-density type="float">0.326755</dome-density>
+      <plod-minimum-expiry-time-secs type="double">180</plod-minimum-expiry-time-secs>
+      <static-lod>
+        <detailed type="double">1500</detailed>
+        <rough type="double">9000</rough>
+        <bare type="double">50000</bare>
+        <ai-range-mode-pixel type="bool">true</ai-range-mode-pixel>
+        <ai-detailed type="double">0</ai-detailed>
+        <ai-interior type="double">0</ai-interior>
+      </static-lod>
+      <random-objects type="bool">false</random-objects>
+      <random-vegetation type="bool">true</random-vegetation>
+      <random-vegetation-shadows type="bool">false</random-vegetation-shadows>
+      <random-vegetation-normals type="bool">false</random-vegetation-normals>
+      <random-vegetation-optimize type="bool">false</random-vegetation-optimize>
+      <vegetation-density type="double">4</vegetation-density>
+      <random-buildings type="bool">false</random-buildings>
+      <osm-buildings type="bool">true</osm-buildings>
+      <building-density type="double">1</building-density>
+      <point-sprites type="bool">true</point-sprites>
+      <enhanced-lighting type="bool">false</enhanced-lighting>
+      <particles type="bool">true</particles>
+      <precipitation-gui-enable type="bool">true</precipitation-gui-enable>
+      <lightning-enable type="bool">false</lightning-enable>
+      <bump-mapping type="bool">false</bump-mapping>
+      <clouds3d-enable type="bool">true</clouds3d-enable>
+      <clouds3d-vis-range type="float">86142.9</clouds3d-vis-range>
+      <clouds3d-detail-range type="float">10000</clouds3d-detail-range>
+      <clouds3d-density type="double">0.9480519891</clouds3d-density>
+      <shadows-ac type="bool">false</shadows-ac>
+      <shadows-ac-transp type="bool">false</shadows-ac-transp>
+      <shadows-ai type="bool">false</shadows-ai>
+      <shadows-to type="bool">false</shadows-to>
+      <shadows-debug type="bool">false</shadows-debug>
+      <shadows>
+        <enabled type="bool">true</enabled>
+        <debug type="bool">false</debug>
+        <map-size type="int">2048</map-size>
+        <num-cascades type="int">4</num-cascades>
+        <cascade-far-m type="float">2</cascade-far-m>
+        <cascade-far-m n="1" type="float">8</cascade-far-m>
+        <cascade-far-m n="2" type="float">32</cascade-far-m>
+        <cascade-far-m n="3" type="float">128</cascade-far-m>
+        <filtering type="int">1</filtering>
+      </shadows>
+      <shader-experimental type="bool">false</shader-experimental>
+      <shader-effects type="bool">true</shader-effects>
+      <fps-display type="bool">false</fps-display>
+      <frame-latency-display type="bool">false</frame-latency-display>
+      <glide-slope-tunnel type="bool">false</glide-slope-tunnel>
+      <redout>
+        <enabled type="bool">true</enabled>
+      </redout>
+      <headshake>
+        <enabled type="bool">true</enabled>
+      </headshake>
+      <osg-displaysettings>
+        <eye-separation type="float">0.05</eye-separation>
+        <screen-distance type="float">0.5</screen-distance>
+        <stereo-mode type="string">OFF</stereo-mode>
+      </osg-displaysettings>
+      <osg-notify-level type="string">warn</osg-notify-level>
+      <scenery-path-suffix>
+        <enabled type="bool">true</enabled>
+      </scenery-path-suffix>
+      <scenery-path-suffix n="1">
+        <enabled type="bool">true</enabled>
+      </scenery-path-suffix>
+      <scenery-path-suffix n="2">
+        <enabled type="bool">true</enabled>
+      </scenery-path-suffix>
+      <scenery-path-suffix n="3">
+        <enabled type="bool">true</enabled>
+      </scenery-path-suffix>
+      <scenery-path-suffix n="4">
+        <enabled type="bool">true</enabled>
+      </scenery-path-suffix>
+    </rendering>
+    <multiplay>
+      <callsign type="string">GEED</callsign>
+      <chat-display type="bool">true</chat-display>
+      <selected-server type="string">mpserver01.flightgear.org - Frankfurt,Germany</selected-server>
+      <lag>
+        <range type="float">3</range>
+        <offset type="float">-0.031</offset>
+        <master type="bool">true</master>
+        <spectator type="bool">true</spectator>
+        <spectator-offset type="float">0.05</spectator-offset>
+        <apply-close type="bool">true</apply-close>
+      </lag>
+      <visibility-range-nm type="int">100</visibility-range-nm>
+      <protocol-version type="int">1</protocol-version>
+    </multiplay>
+    <session type="int">676</session>
+    <paths>
+      <screenshot-dir type="string"></screenshot-dir>
+    </paths>
+    <lon-lat-format type="int">2</lon-lat-format>
+    <input>
+      <property-key-handler type="bool">false</property-key-handler>
+    </input>
+    <view-name-popup type="bool">true</view-name-popup>
+    <view>
+      <enabled type="bool">true</enabled>
+    </view>
+    <view n="1">
+      <enabled type="bool">true</enabled>
+    </view>
+    <view n="2">
+      <enabled type="bool">true</enabled>
+    </view>
+    <view n="3">
+      <enabled type="bool">true</enabled>
+    </view>
+    <view n="4">
+      <enabled type="bool">true</enabled>
+    </view>
+    <view n="5">
+      <enabled type="bool">true</enabled>
+    </view>
+    <view n="6">
+      <enabled type="bool">true</enabled>
+    </view>
+    <view n="7">
+      <enabled type="bool">true</enabled>
+    </view>
+    <menubar>
+      <visibility type="bool">true</visibility>
+      <autovisibility>
+        <enabled type="bool">false</enabled>
+      </autovisibility>
+    </menubar>
+    <gui>
+      <current-style type="int">1</current-style>
+      <devel-widgets type="bool">false</devel-widgets>
+      <dialogs>
+        <nasal-console>
+          <code n="1" type="string">setprop("sim/rendering/als-filters/use-IR-vision",1);</code>
+          <code n="2" type="string">if( getprop("sim/rendering/rembrandt/enabled") == 1 ){
+ print("REMBRANDT ON");
+}</code>
+          <code n="3" type="string">print ( string.match( getprop("sim/weight[5]/selected"), "SAR " ) );</code>
+          <code n="4" type="string">setlistener("/sim/weight[5]/selected", func(s) {
+if(string.match( s, "SAR" ) == 1){
+ print("SAR selected");
+ disable_flir(1);
+}else{
+ print("SAR selected");
+ disable_flir(0);
+}
+},1);</code>
+          <code n="5" type="string">var viewnum = 0;
+foreach(var w; props.globals.getNode("sim").getChildren("views")) {
+        print("testing view nr",viewnum);
+        viewnum=viewnum+1;
+}</code>
+          <code n="6" type="string">print( getprop("sim/weight[5]/selected") );</code>
+          <code n="7" type="string">var n = getprop("sim/current-view/view-number");
+print( n.getValue() );</code>
+          <code n="8" type="string">print(props.globals.getNode("sim").getChildren("views"));</code>
+          <code n="9" type="string">testchannel = mpbroadcast.BroadcastChannel.new("sim/</code>
+          <code n="10" type="string">flir.options</code>
+        </nasal-console>
+        <flightrecorder>
+          <author-name type="string">geed</author-name>
+        </flightrecorder>
+      </dialogs>
+    </gui>
+    <mouse>
+      <hide-cursor type="bool">true</hide-cursor>
+      <right-button-mode-cycle-enabled type="bool">false</right-button-mode-cycle-enabled>
+      <cycle-mode-popup type="bool">true</cycle-mode-popup>
+      <cursor-timeout-sec type="double">10</cursor-timeout-sec>
+      <click-shows-tooltip type="bool">true</click-shows-tooltip>
+      <tooltip-delay-msec type="int">800</tooltip-delay-msec>
+      <tooltips-enabled type="bool">true</tooltips-enabled>
+      <drag-sensitivity type="double">1</drag-sensitivity>
+      <invert-mouse-wheel type="bool">false</invert-mouse-wheel>
+      <skip-flight-controls-mode type="bool">false</skip-flight-controls-mode>
+    </mouse>
+    <replay>
+      <looped type="bool">true</looped>
+      <tape-directory type="string">D:/FlightGear/Flightgear Tape</tape-directory>
+    </replay>
+    <traffic-manager>
+      <enabled type="bool">false</enabled>
+    </traffic-manager>
+    <ai>
+      <scenarios-enabled type="bool">true</scenarios-enabled>
+    </ai>
+    <jetways>
+      <interact-with-multiplay type="bool">true</interact-with-multiplay>
+    </jetways>
+    <terrasync>
+      <enabled type="bool">true</enabled>
+    </terrasync>
+    <frame-rate-throttle-hz type="double">0</frame-rate-throttle-hz>
+    <model>
+      <f15>
+        <overrides>
+          <special-carrier-handling type="bool">true</special-carrier-handling>
+          <aircraft-agl-height type="double">7.728680129</aircraft-agl-height>
+        </overrides>
+      </f15>
+      <f-14b>
+        <overrides>
+          <special-carrier-handling type="bool">true</special-carrier-handling>
+          <aircraft-agl-height type="double">7.728680129</aircraft-agl-height>
+        </overrides>
+      </f-14b>
+      <doors-removed type="bool">false</doors-removed>
+      <shadeless type="bool">true</shadeless>
+      <ch53e>
+        <control-input>
+          <stick-pos-bright-norm type="double">0</stick-pos-bright-norm>
+          <caution-bright-norm type="double">0</caution-bright-norm>
+          <probe-extend type="int">0</probe-extend>
+          <eaps>
+            <eaps>
+              <mode type="int">0</mode>
+            </eaps>
+            <eaps n="1">
+              <mode type="int">0</mode>
+            </eaps>
+            <eaps n="2">
+              <mode type="int">0</mode>
+            </eaps>
+          </eaps>
+        </control-input>
+      </ch53e>
+      <jrb-usn>
+        <radar-altitude-decision-height type="int">0</radar-altitude-decision-height>
+        <id-249-course-deg type="double">0</id-249-course-deg>
+      </jrb-usn>
+    </model>
+    <heli-realism-settling type="bool">true</heli-realism-settling>
+    <heli-realism-airoverspeed type="bool">true</heli-realism-airoverspeed>
+    <heli-realism-rpmoverspeed type="bool">true</heli-realism-rpmoverspeed>
+    <heli-realism-gforces type="bool">true</heli-realism-gforces>
+    <heli-realism-fuelcons type="bool">true</heli-realism-fuelcons>
+    <heli-huge-panel type="bool">false</heli-huge-panel>
+    <rendering n="1">
+      <redout>
+        <enabled type="bool">true</enabled>
+      </redout>
+    </rendering>
+  </sim>
+  <controls>
+    <flight>
+      <auto-pedals>0</auto-pedals>
+    </flight>
+    <gear>
+      <tiller-enabled type="bool">true</tiller-enabled>
+    </gear>
+    <tray>
+      <suprise type="bool">false</suprise>
+    </tray>
+    <instrumentation>
+      <ins>
+        <d1>
+          <latitude-deg>-34.67</latitude-deg>
+          <longitude-deg>-117.67</longitude-deg>
+        </d1>
+        <d2>
+          <latitude-deg>-34.67</latitude-deg>
+          <longitude-deg>-117.67</longitude-deg>
+        </d2>
+      </ins>
+      <uhf>
+        <preset-channel type="int">0</preset-channel>
+        <preset-channels>
+          <channel>120.500</channel>
+          <channel n="1">118.850</channel>
+          <channel n="2">118.300</channel>
+          <channel n="3">133.775</channel>
+          <channel n="4">133.775</channel>
+          <channel n="5">133.775</channel>
+          <channel n="6">133.775</channel>
+          <channel n="7">133.775</channel>
+          <channel n="8">133.775</channel>
+          <channel n="9">133.775</channel>
+          <channel n="10">133.775</channel>
+          <channel n="11">133.775</channel>
+          <channel n="12">133.775</channel>
+          <channel n="13">133.775</channel>
+          <channel n="14">133.775</channel>
+          <channel n="15">133.775</channel>
+          <channel n="16">133.775</channel>
+          <channel n="17">133.775</channel>
+          <channel n="18">133.775</channel>
+          <channel n="19">133.775</channel>
+        </preset-channels>
+        <manual-channel>120.500</manual-channel>
+      </uhf>
+    </instrumentation>
+  </controls>
+  <environment>
+    <params>
+      <jsbsim-turbulence-model type="string">ttMilspec</jsbsim-turbulence-model>
+      <metar-updates-snow-level type="bool">true</metar-updates-snow-level>
+    </params>
+    <wildfire>
+      <enabled type="bool">false</enabled>
+      <share-events type="bool">false</share-events>
+      <save-on-exit type="bool">false</save-on-exit>
+      <restore-on-startup type="bool">false</restore-on-startup>
+      <fire-on-crash type="bool">false</fire-on-crash>
+      <report-score type="bool">false</report-score>
+    </wildfire>
+    <air-pollution-norm type="double">0.272727</air-pollution-norm>
+    <fog-structure type="double">9.03896</fog-structure>
+    <surface>
+      <dust-cover-factor type="double">0</dust-cover-factor>
+      <lichen-cover-factor type="double">0.372727</lichen-cover-factor>
+      <wetness-set type="double">0.563636</wetness-set>
+      <snow-thickness-factor type="double">0.412987</snow-thickness-factor>
+    </surface>
+    <volcanoes>
+      <enable-volcanoes type="int">1</enable-volcanoes>
+      <kilauea>
+        <halemaumau-activity type="int">0</halemaumau-activity>
+        <puu-oo-activity type="int">0</puu-oo-activity>
+      </kilauea>
+      <stromboli>
+        <central-activity type="int">0</central-activity>
+        <side-activity type="int">0</side-activity>
+      </stromboli>
+      <etna>
+        <southeast-activity type="int">3</southeast-activity>
+        <northeast-activity type="int">2</northeast-activity>
+        <flank-activity type="int">0</flank-activity>
+      </etna>
+    </volcanoes>
+  </environment>
+  <local-weather>
+    <config>
+      <asymmetric-buffering-flag type="bool">false</asymmetric-buffering-flag>
+      <asymmetric-buffering-reduction type="double">0.3</asymmetric-buffering-reduction>
+      <asymmetric-buffering-angle-deg type="double">90</asymmetric-buffering-angle-deg>
+      <distance-to-load-tile-m type="double">39000</distance-to-load-tile-m>
+      <distance-to-remove-tile-m type="double">39500</distance-to-remove-tile-m>
+      <detailed-clouds-flag type="bool">true</detailed-clouds-flag>
+      <dynamics-flag type="bool">false</dynamics-flag>
+      <thermal-properties type="double">0.455844</thermal-properties>
+      <wind-model type="string">aloft interpolated</wind-model>
+      <buffer-flag type="bool">true</buffer-flag>
+      <asymmetric-reduction type="double">0.7</asymmetric-reduction>
+      <clouds-visible-range-m type="double">30000</clouds-visible-range-m>
+      <clouds-in-dynamics-loop type="int">250</clouds-in-dynamics-loop>
+      <debug-output-flag type="bool">false</debug-output-flag>
+      <generate-thermal-lift-flag type="bool">true</generate-thermal-lift-flag>
+      <dynamical-convection-flag type="bool">false</dynamical-convection-flag>
+      <detailed-terrain-interaction-flag type="bool">true</detailed-terrain-interaction-flag>
+      <realistic-visibility-flag type="bool">true</realistic-visibility-flag>
+      <turbulence-scale type="double">0.75974</turbulence-scale>
+      <presampling-flag type="bool">true</presampling-flag>
+      <fps-control-flag type="bool">false</fps-control-flag>
+      <target-framerate type="double">25</target-framerate>
+      <large-scale-persistence type="double">1.08442</large-scale-persistence>
+      <small-scale-persistence type="double">0.493506</small-scale-persistence>
+      <ground-haze-factor type="double">1</ground-haze-factor>
+      <aux-max-vis-range-m type="double">11.7186</aux-max-vis-range-m>
+      <max-vis-range-m type="double">122835.3353</max-vis-range-m>
+      <generate-cloud-shadows type="bool">true</generate-cloud-shadows>
+    </config>
+    <tmp>
+      <tile-management type="string">realistic weather</tile-management>
+      <tile-type type="string">High-pressure-border</tile-type>
+      <tile-orientation-deg type="double">180</tile-orientation-deg>
+      <windspeed-kt type="double">3</windspeed-kt>
+      <asymmetric-tile-loading-flag type="bool">false</asymmetric-tile-loading-flag>
+      <FL0-wind-from-heading-deg type="double">180</FL0-wind-from-heading-deg>
+      <FL0-windspeed-kt type="double">0</FL0-windspeed-kt>
+      <FL50-wind-from-heading-deg type="double">180</FL50-wind-from-heading-deg>
+      <FL50-windspeed-kt type="double">0</FL50-windspeed-kt>
+      <FL100-wind-from-heading-deg type="double">264</FL100-wind-from-heading-deg>
+      <FL100-windspeed-kt type="double">0</FL100-windspeed-kt>
+      <FL180-wind-from-heading-deg type="double">265</FL180-wind-from-heading-deg>
+      <FL180-windspeed-kt type="double">24</FL180-windspeed-kt>
+      <FL240-wind-from-heading-deg type="double">269</FL240-wind-from-heading-deg>
+      <FL240-windspeed-kt type="double">35</FL240-windspeed-kt>
+      <FL300-wind-from-heading-deg type="double">273</FL300-wind-from-heading-deg>
+      <FL300-windspeed-kt type="double">45</FL300-windspeed-kt>
+      <FL340-wind-from-heading-deg type="double">274</FL340-wind-from-heading-deg>
+      <FL340-windspeed-kt type="double">50</FL340-windspeed-kt>
+      <FL390-wind-from-heading-deg type="double">273</FL390-wind-from-heading-deg>
+      <FL390-windspeed-kt type="double">56</FL390-windspeed-kt>
+      <FL450-wind-from-heading-deg type="double">272</FL450-wind-from-heading-deg>
+      <FL450-windspeed-kt type="double">65</FL450-windspeed-kt>
+    </tmp>
+    <cloud-shadows>
+      <cloud-shadow-flag type="bool">true</cloud-shadow-flag>
+      <cloud-shadow-fov-flag type="bool">false</cloud-shadow-fov-flag>
+    </cloud-shadows>
+  </local-weather>
+  <nasal>
+    <local_weather>
+      <enabled type="bool">true</enabled>
+    </local_weather>
+    <jetways>
+      <enabled type="bool">false</enabled>
+    </jetways>
+    <FailureMgr>
+      <enabled type="bool">true</enabled>
+    </FailureMgr>
+    <console>
+      <enabled type="bool">true</enabled>
+    </console>
+    <towing>
+      <enabled type="bool">true</enabled>
+    </towing>
+    <canvas>
+      <enabled type="bool">true</enabled>
+    </canvas>
+    <std>
+      <enabled type="bool">true</enabled>
+    </std>
+  </nasal>
+  <scenery>
+    <share-events type="bool">true</share-events>
+  </scenery>
+  <earthview>
+    <cloudsphere-flag type="bool">true</cloudsphere-flag>
+    <cloud-shadow-flag type="bool">true</cloud-shadow-flag>
+    <cloudcover-bias type="double">1.35714</cloudcover-bias>
+    <overlay-texture-flag type="bool">true</overlay-texture-flag>
+    <mrd-flag type="bool">false</mrd-flag>
+    <normal-flag type="bool">true</normal-flag>
+    <cloud-normal-flag type="bool">true</cloud-normal-flag>
+  </earthview>
+</PropertyList>
